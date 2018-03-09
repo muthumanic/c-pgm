@@ -7,7 +7,7 @@ char ch[100];
 int k,i;
 gets(ch);
 k=strlen(ch);
-for(i=0;i<k;i++)
+f
 {
 	if(isdigit(ch[i]))
 	{
