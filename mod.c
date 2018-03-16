@@ -1,4 +1,5 @@
 #include<stdio.h>
+#inlclude<conio.h>
 int main()
 {
   int a,b,c,product,mod;
